@@ -16,9 +16,9 @@ clean, working software.
 ---
 
 ### 🚀 What I'm working on
-- 🧮 **RigidBoxQuoter** — a SwiftUI app that calculates production costing for
-  rigid box manufacturing, based on real domain knowledge from my
-  industry background *(link θα προστεθεί μόλις δημιουργηθεί το repo)*
+- 🧮 **[RigidBoxQuoter](https://github.com/Billmorf/RigidBoxQuoter)** — a SwiftUI app
+  that calculates production costing for rigid box manufacturing, based on
+  real domain knowledge from my industry background. 🚧 Work in progress.
 - 📚 Working through Data Structures, Algorithms & OOP fundamentals
   alongside my degree coursework
 
