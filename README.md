@@ -38,4 +38,4 @@ Junior iOS Developer / iOS Developer Internship opportunities in Greece.
 ---
 
 ### 📊 GitHub Stats
-![Vasilis' GitHub stats](https://github-readme-stats.vercel.app/api?username=<Billmorf>&show_icons=true&theme=default)
+![Vasilis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Billmorf&show_icons=true&theme=default&cache_seconds=1800)
