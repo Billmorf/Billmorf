@@ -16,7 +16,7 @@ clean, working software.
 ---
 
 ### 🚀 What I'm working on
-- 🧮 **RigidBoxOffer** — a SwiftUI app that calculates production costing for
+- 🧮 **RigidBoxQuoter** — a SwiftUI app that calculates production costing for
   rigid box manufacturing, based on real domain knowledge from my
   industry background *(link θα προστεθεί μόλις δημιουργηθεί το repo)*
 - 📚 Working through Data Structures, Algorithms & OOP fundamentals
@@ -35,7 +35,4 @@ Junior iOS Developer / iOS Developer Internship opportunities in Greece.
 ### 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasilis-morfonidis/)
 
----
 
-### 📊 GitHub Stats
-![Vasilis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Billmorf&show_icons=true&theme=default&cache_seconds=1800)
